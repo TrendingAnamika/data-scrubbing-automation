@@ -1,0 +1,10 @@
+2024-02-21 19:12:16,665 - INFO - Successfully read the input CSV file HORIZON_MDG_CUSTOMER_SKU.csv and loaded it into the DataFrame.
+2024-02-21 19:12:16,665 - INFO - CSV file loaded successfully.
+2024-02-21 19:12:16,681 - INFO - parentName and masterName columns are present in the CSV file to apply transformation on it.
+2024-02-21 19:12:16,681 - INFO - Data Scrubbing for parentName and masterName is done successfully.
+2024-02-21 19:12:16,681 - INFO - Data Transformation for the given columns are done successfully.
+2024-02-21 19:12:16,964 - INFO - Data Scrubbing for given columns are done.
+2024-02-21 19:12:16,964 - INFO - Data Scrubbing for all columns facilityName,facilityLegalName,apiName,tradeName,masterDescription,materialGroup,addressLine1,addressLine2,addressLine3,city,state,postalCode,country1,country2,shipToId,shipToName,shipToStreet,shipToCity,shipToState,shipToCountry,shipToZipCode are done successfully.
+2024-02-21 19:12:16,964 - INFO - Final Data saved successfully to location : output/TRANSFORMED_HORIZON_MDG_CUSTOMER_SKU.csv
+2024-02-21 19:12:17,090 - INFO - Final Data saved successfully to location : output
+2024-02-21 19:12:17,090 - INFO - Automation Data Scrubbing completed successfully.

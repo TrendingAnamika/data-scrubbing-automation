@@ -1,0 +1,9 @@
+2024-02-21 19:12:06,047 - INFO - Successfully read the input CSV file Horizon_Capacity_Usage.csv and loaded it into the DataFrame.
+2024-02-21 19:12:06,047 - INFO - CSV file loaded successfully.
+2024-02-21 19:12:06,047 - INFO - parentName, masterName or any anotherColumn is not present in the CSV file to apply transformation on it.
+2024-02-21 19:12:06,047 - INFO - Data Transformation for the given columns are done successfully.
+2024-02-21 19:12:06,171 - INFO - Data Scrubbing for given columns are done.
+2024-02-21 19:12:06,171 - INFO - Data Scrubbing for all columns PRODUCTFAMILY,CLIENT,CLIENTULTIMATEPARENTNAME are done successfully.
+2024-02-21 19:12:06,171 - INFO - Final Data saved successfully to location : output/TRANSFORMED_Horizon_Capacity_Usage.csv
+2024-02-21 19:12:06,423 - INFO - Final Data saved successfully to location : output
+2024-02-21 19:12:06,430 - INFO - Automation Data Scrubbing completed successfully.
