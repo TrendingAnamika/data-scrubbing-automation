@@ -1,0 +1,9 @@
+2024-02-21 19:11:43,347 - INFO - Successfully read the input CSV file Horizon_Batch_MFG.csv and loaded it into the DataFrame.
+2024-02-21 19:11:43,347 - INFO - CSV file loaded successfully.
+2024-02-21 19:11:43,352 - INFO - parentName, masterName or any anotherColumn is not present in the CSV file to apply transformation on it.
+2024-02-21 19:11:43,352 - INFO - Data Transformation for the given columns are done successfully.
+2024-02-21 19:11:43,802 - INFO - Data Scrubbing for given columns are done.
+2024-02-21 19:11:43,802 - INFO - Data Scrubbing for all columns stepType,prodPhaseName are done successfully.
+2024-02-21 19:11:43,812 - INFO - Final Data saved successfully to location : output/TRANSFORMED_Horizon_Batch_MFG.csv
+2024-02-21 19:11:44,498 - INFO - Final Data saved successfully to location : output
+2024-02-21 19:11:44,517 - INFO - Automation Data Scrubbing completed successfully.

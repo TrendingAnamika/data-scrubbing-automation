@@ -1,0 +1,10 @@
+2024-02-21 19:11:50,775 - INFO - Successfully read the input CSV file Horizon_Batch_Tracker.csv and loaded it into the DataFrame.
+2024-02-21 19:11:50,775 - INFO - CSV file loaded successfully.
+2024-02-21 19:11:50,834 - INFO - masterDescription column is present in CSV file to apply transformation on it.
+2024-02-21 19:11:50,834 - INFO - Data Scrubbing for masterDescription is done successfully.
+2024-02-21 19:11:50,834 - INFO - Data Transformation for the given columns are done successfully.
+2024-02-21 19:11:51,552 - INFO - Data Scrubbing for given columns are done.
+2024-02-21 19:11:51,552 - INFO - Data Scrubbing for all columns tradeName,shipToName,shipToStreet,shipToCity,shipToState,shipToZipCode,shipToCountry,previousMMIdDesc,previousLevel2MMIdDesc are done successfully.
+2024-02-21 19:11:51,552 - INFO - Final Data saved successfully to location : output/TRANSFORMED_Horizon_Batch_Tracker.csv
+2024-02-21 19:11:52,686 - INFO - Final Data saved successfully to location : output
+2024-02-21 19:11:52,703 - INFO - Automation Data Scrubbing completed successfully.

@@ -1,0 +1,10 @@
+2024-02-21 19:11:58,486 - INFO - Successfully read the input CSV file Horizon_Capacity_Available.csv and loaded it into the DataFrame.
+2024-02-21 19:11:58,486 - INFO - CSV file loaded successfully.
+2024-02-21 19:11:58,486 - INFO - parentName, masterName or any anotherColumn is not present in the CSV file to apply transformation on it.
+2024-02-21 19:11:58,486 - INFO - Data Transformation for the given columns are done successfully.
+2024-02-21 19:11:58,486 - WARNING - Column 'NoColumn' not found in the CSV file. Skipping.
+2024-02-21 19:11:58,486 - INFO - Data Scrubbing for given columns are done.
+2024-02-21 19:11:58,486 - INFO - Data Scrubbing for all columns NoColumn are done successfully.
+2024-02-21 19:11:58,486 - INFO - Final Data saved successfully to location : output/TRANSFORMED_Horizon_Capacity_Available.csv
+2024-02-21 19:11:58,549 - INFO - Final Data saved successfully to location : output
+2024-02-21 19:11:58,549 - INFO - Automation Data Scrubbing completed successfully.
